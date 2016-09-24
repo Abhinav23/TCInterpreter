@@ -1,6 +1,6 @@
 //
 // arrays.js - part of the fq engine
-// (c)2000-2002 Cal Henderson and Elliot Brady
+// (c)2016 Abhinav Narayanan
 //
 // Array extensions
 //
